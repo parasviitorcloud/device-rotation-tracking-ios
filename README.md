@@ -1,6 +1,6 @@
 # device-rotation-tracking-ios
 
-# Introdcuction: 
+# Introduction: 
 This library track device 360-degree rotation and gives Angle value while Rotating device or moving in “Right” direction only. 
  
 # How to use:   
